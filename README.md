@@ -9,3 +9,7 @@ First code is on MNIST Dataset using Conv NN
 * LinearAlgebra
 command to run
 `julia MNIST.jl`
+###### To add libraries type in julia
+###### `using Pkg`
+###### `Pkg.add("Flux")`
+###### `using Flux`
